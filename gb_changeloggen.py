@@ -8,7 +8,7 @@
 # https://gamebanana.com/mods/569653
 
 # this controls the directory
-directory = ""
+directory = "devloper/scripts/gamebanana_changelog_generator"
 
 # this controls what kind of "tab" is checked for
 tab_char = "    "
