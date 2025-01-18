@@ -1,0 +1,16 @@
+Fun over Money v0.1.2 - 1/18/2025
+Total Dev Time: 1 hour and 6 minutes
+Lit Copper Light Recipe (removed the coal), Bugfix
+Steel Scrap, Addition
+Steel Scrap Recipe (Furnace), Addition
+Steel Scrap Recipe Alt (Blast Furnace), Addition
+Steel, Addition
+Steel Recipe (Crafting Table), Addition
+Steel Armor, Addition
+Steel Enchancement, Addition
+Steel Weapons, Addition
+Steel Armor Recipes, Addition
+Steel Weapon Recipes, Addition
+Steel Armor Recipe Unlocking, Addition
+Steel Weapon Recipe Unlocking, Addition
+RecipeUnlocking procedure to include local 8 more recipe local texts (10 recipes unlocked at once), Tweak

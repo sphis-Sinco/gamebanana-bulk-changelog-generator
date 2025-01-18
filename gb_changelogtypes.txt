@@ -1,0 +1,12 @@
+Addition
+Removal
+Overhaul
+Adjustment
+Amendment
+Improvement
+Optimization
+Tweak
+Suggestion
+Feature
+Refactor
+Bugfix
