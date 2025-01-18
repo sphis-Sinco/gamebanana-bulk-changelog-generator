@@ -9,7 +9,7 @@
 # https://gamebanana.com/mods/569653
 
 # this controls the directory
-directory = "developer/scripts/gamebanana_changelog_generator"
+directory = ""
 
 # make sure there is a / at the end
 if not directory.endswith('/'):
