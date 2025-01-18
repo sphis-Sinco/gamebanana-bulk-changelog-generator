@@ -1,4 +1,4 @@
-Fun over Money v0.1.2 - 1/18/2025
+- Fun over Money v0.1.2 - 1/18/2025
 Total Dev Time: 1 hour and 6 minutes
     - Fixed Lit Copper Light Recipe (removed the coal)
         - Added Steel Scrap
