@@ -2,13 +2,18 @@
 
 # 1.0 - Base Script
 # 1.1 - Directory var, tab support, a tab character variable, and a github page!
+# 1.2 - missing "/" at the end of directory check, and quotes for the directory of the "written to" text
 
 # Written by Sphis_Sinco for "Fun over Money".
 # This cool little minecraft (java edition) mod ;)
 # https://gamebanana.com/mods/569653
 
 # this controls the directory
-directory = "devloper/scripts/gamebanana_changelog_generator"
+directory = "developer/scripts/gamebanana_changelog_generator"
+
+# make sure there is a / at the end
+if not directory.endswith('/'):
+    directory = directory + "/"
 
 # this controls what kind of "tab" is checked for
 tab_char = "    "
@@ -78,4 +83,4 @@ for entry in array_logs:
 # write to the final_log.txt file
 the_log = open(f'{directory}final_log.txt', 'w')
 the_log.write(gamebanana_changelog)
-print(f"Written to {directory}final_log.txt")
+print(f"Written to \"{directory}final_log.txt\"")
