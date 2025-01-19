@@ -23,7 +23,7 @@ if not directory.endswith('/'):
     directory = directory + "/"
 
 # this controls what kind of "tab" is checked for
-tab_char = "    "
+tab_char = "	"
 tab_char_len = tab_char.__len__()
 
 # Changelog variables
@@ -102,7 +102,8 @@ for entry in array_logs:
 
     full_text = full_text.removesuffix(' | ')
 
-    print(full_text)
+    if full_text.__len__() > 0:
+        print(full_text)
 
 
 # write to the final_log.txt file

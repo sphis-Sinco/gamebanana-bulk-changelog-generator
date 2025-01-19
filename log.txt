@@ -1,16 +1,16 @@
-- Fun over Money v0.1.2 - 1/18/2025
-Total Dev Time: 1 hour and 6 minutes
-    - Fixed Lit Copper Light Recipe (removed the coal)
-        - Added Steel Scrap
-            - Added Steel Scrap Recipe (Furnace)
-                                    - Added Steel Scrap Recipe Alt (Blast Furnace)
-- Added Steel
-- Added Steel Recipe (Crafting Table)
-- Added Steel Armor
-- Added Steel Enchancement
-- Added Steel Weapons
-- Added Steel Armor Recipes
-- Added Steel Weapon Recipes
-- Added Steel Armor Recipe Unlocking
-- Added Steel Weapon Recipe Unlocking
-- Changed RecipeUnlocking procedure to include local 8 more recipe local texts (10 recipes unlocked at once)
+Fun over Money v0.2 - 1/19/2025
+Total Dev Time counter will be removed
+- Added Potion Effects for Steel Armor
+	- Added Steel Helmet Potion Effect: Luck 5 for 5 ticks
+	- Added Steel Chestplate Potion Effect: Resistence 5 for 5 ticks
+	- Added Steel Leggings Potion Effect: Saturation 2 for 5 ticks
+	- Added Steel Boots Potion Effect: Slow Falling 1 for 5 ticks
+- Added Python Script for generating gamebanana bulk add changelogs (script on github)
+- Added Mod Version Overlay to Main Menu
+- Added Structure that generates in Plains Biomes (Trumen)
+- Added Instant Ramen
+	- Added Ramen Noodles
+	- Added Crafting Recipe for Instant Ramen
+	- Added Crafting Recipe for Ramen Noodles
+- Added Extended Food Creative Tab
+- Added Python Script for recommending a version string (script on github)
