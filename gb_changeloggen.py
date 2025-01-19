@@ -12,8 +12,8 @@
 # https://gamebanana.com/mods/569653
 
 # display variables
-display_progress = input('Display Progress % (y/n)?\n').lower() == 'y'
-display_tabsremoved = input('Display Character Tabs Removed (y/n)?\n').lower() == 'y'
+display_progress = input('Display Progress % (y/n)? ').lower() == 'y'
+display_tabsremoved = input('Display Character Tabs Removed (y/n)? ').lower() == 'y'
 
 # this controls the directory
 directory = "developer/scripts/gamebanana_changelog_generator"
